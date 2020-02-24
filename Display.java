@@ -20,7 +20,7 @@
  * last edited: 02/23/2020 
  */
 
-package hangman;
+//package hangman;
 
 import java.awt.Color;
 import java.awt.Font;
